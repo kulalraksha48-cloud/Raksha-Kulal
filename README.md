@@ -74,5 +74,13 @@ A digital warranty and purchase-record system designed to help shops and custome
 
 ---
 
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kulalraksha48-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
 
 
