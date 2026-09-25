@@ -52,6 +52,15 @@ About Me
   <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,react,fastapi,firebase,git,github,pandas,sklearn" />
 </p>
 
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kulalraksha48-cloud&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulalraksha48-cloud&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
 
 
 
