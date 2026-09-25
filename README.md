@@ -28,7 +28,7 @@ About Me
 
 ---
 
-Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/raksha-kulal-4011a7434/">
@@ -43,3 +43,16 @@ Connect With Me
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+## Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,react,fastapi,firebase,git,github,pandas,sklearn" />
+</p>
+
+
+
+
+
