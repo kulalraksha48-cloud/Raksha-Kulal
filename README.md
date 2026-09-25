@@ -54,14 +54,25 @@ About Me
 
 ---
 
-## GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kulalraksha48-cloud&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulalraksha48-cloud&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+## Projects
 
+### 🔐 INSIGHT — Insider Behavior Intelligence Dashboard
 
+A cybersecurity dashboard designed to detect significant changes in user behavior by analyzing login patterns, devices, networks, resource access, privilege changes, and other activity signals.
+
+**Technologies:** React • Python • FastAPI • Firebase • Pandas • Scikit-learn
+
+---
+
+### 🧾 Smart Warranty System
+
+A digital warranty and purchase-record system designed to help shops and customers manage bills, warranty information, and purchase history.
+
+**Technologies:** HTML • CSS • JavaScript • Firebase
+
+---
 
 
 
