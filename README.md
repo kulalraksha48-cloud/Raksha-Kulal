@@ -20,3 +20,14 @@ About Me
 - 🚀 Learning by building practical projects
 - 🛠️ Currently working on projects and improving my technical skills
 - 📍 Mangalore Institute of Technology and Engineering (MITE)
+---
+
+---
+
+ Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/raksha-kulal-4011a7434/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
