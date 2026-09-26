@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="./profile-banner.png" alt="Raksha Kulal Profile Banner" width="100%">
+</p>
+
+
+
 # Raksha Kulal 👋
 
 ### Information Science & Engineering Student • Developer • Tech Enthusiast
