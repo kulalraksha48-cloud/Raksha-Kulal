@@ -85,7 +85,14 @@ A web-based warranty management project designed to provide a simple way to orga
 
 🔗 [View Project on GitHub](https://github.com/kulalraksha48-cloud/smart-warranty-system)
 
+---
 
+## Education
+
+### 🎓 Bachelor of Engineering — Information Science & Engineering
+
+**Mangalore Institute of Technology and Engineering (MITE)**  
+Currently pursuing my undergraduate degree in Information Science & Engineering.
 
 
 ## Developer Quote
