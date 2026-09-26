@@ -79,15 +79,11 @@ A cybersecurity dashboard designed to detect significant changes in user behavio
 
 ### 🧾 Smart Warranty System
 
-A digital warranty management system designed to help shops and customers manage purchase records, digital bills, warranty information, and purchase history.
+A web-based warranty management project designed to provide a simple way to organize digital purchase and warranty information.
 
-**Key Features**
-- 🧾 Digital bill and warranty records
-- 🔍 Purchase history management
-- 📱 Customer and shop-oriented workflow
-- ☁️ Firebase-based data storage
+**Technologies:** HTML
 
-**Technologies:** HTML • CSS • JavaScript • Firebase
+🔗 [View Project on GitHub](https://github.com/kulalraksha48-cloud/smart-warranty-system)
 
 
 
