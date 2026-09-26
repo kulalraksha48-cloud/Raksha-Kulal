@@ -40,14 +40,24 @@ About Me
   </a>
 </p>
 
+---
 
 ## Technologies & Tools
 
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,react,fastapi,firebase,git,github,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=c,python,javascript" />
 </p>
 
+### Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
+### Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,firebase,git,github,pandas,sklearn" />
+</p>
 
 ## Projects
 
