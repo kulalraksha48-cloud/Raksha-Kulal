@@ -84,6 +84,21 @@ A digital warranty and purchase-record system designed to help shops and custome
 
 ---
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kulalraksha48-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+
+
+
+
+
+
+
+
+
 ## Developer Quote
 
 > "Learn by building, improve by experimenting, and grow with every project."
