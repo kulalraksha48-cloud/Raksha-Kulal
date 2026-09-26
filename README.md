@@ -63,13 +63,18 @@ About Me
 
 
 ## Projects
-
 ### 🔐 INSIGHT — Insider Behavior Intelligence Dashboard
 
-A cybersecurity dashboard designed to detect significant changes in user behavior by analyzing login patterns, devices, networks, resource access, privilege changes, and other activity signals.
+A cybersecurity dashboard designed to detect significant changes in user behavior and identify potentially risky account activity.
 
-**Technologies:** React • Python • FastAPI • Firebase • Pandas • Scikit-learn
+**Key Features**
+- 📊 Behavior baseline and anomaly detection
+- 🔍 Multi-signal correlation
+- ⚠️ Context-aware risk analysis
+- 📈 Explainable risk scoring
+- 🕒 Investigation timeline and alerts
 
+**Technologies:** React • Python • FastAPI • Firebase • Scikit-learn
 
 
 ### 🧾 Smart Warranty System
