@@ -94,6 +94,16 @@ A web-based warranty management project designed to provide a simple way to orga
 **Mangalore Institute of Technology and Engineering (MITE)**  
 Currently pursuing my undergraduate degree in Information Science & Engineering.
 
+---
+
+## Currently Learning
+
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+- 🌐 Full-Stack Web Development
+- 💻 Data Structures & Algorithms
+
 
 ## Developer Quote
 
