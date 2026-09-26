@@ -9,8 +9,6 @@ software development, cybersecurity, cloud technologies, and AI.
 I enjoy learning by building projects, experimenting with new technologies,
 and turning ideas into practical solutions.
 
----
-
 About Me
 
 - 🎓 Information Science and Engineering student
@@ -20,13 +18,9 @@ About Me
 - 🚀 Learning by building practical projects
 - 🛠️ Currently working on projects and improving my technical skills
 - 📍 Mangalore Institute of Technology and Engineering (MITE)
----
 
----
 
----
 
----
 
 ## Connect With Me
 
@@ -44,7 +38,6 @@ About Me
   </a>
 </p>
 
----
 
 ## Technologies & Tools
 
@@ -52,9 +45,7 @@ About Me
   <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,react,fastapi,firebase,git,github,pandas,sklearn" />
 </p>
 
----
 
----
 
 ## Projects
 
@@ -64,7 +55,7 @@ A cybersecurity dashboard designed to detect significant changes in user behavio
 
 **Technologies:** React • Python • FastAPI • Firebase • Pandas • Scikit-learn
 
----
+
 
 ### 🧾 Smart Warranty System
 
@@ -72,9 +63,8 @@ A digital warranty and purchase-record system designed to help shops and custome
 
 **Technologies:** HTML • CSS • JavaScript • Firebase
 
----
 
----
+
 
 ## GitHub Trophies
 
