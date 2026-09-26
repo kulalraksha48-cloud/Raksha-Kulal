@@ -79,11 +79,15 @@ A cybersecurity dashboard designed to detect significant changes in user behavio
 
 ### 🧾 Smart Warranty System
 
-A digital warranty and purchase-record system designed to help shops and customers manage bills, warranty information, and purchase history.
+A digital warranty management system designed to help shops and customers manage purchase records, digital bills, warranty information, and purchase history.
+
+**Key Features**
+- 🧾 Digital bill and warranty records
+- 🔍 Purchase history management
+- 📱 Customer and shop-oriented workflow
+- ☁️ Firebase-based data storage
 
 **Technologies:** HTML • CSS • JavaScript • Firebase
-
-
 
 
 
