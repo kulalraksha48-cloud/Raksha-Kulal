@@ -1,28 +1,22 @@
+# Raksha Kulal 👋
 
-
-Raksha Kulal 👋
-
-Information Science & Engineering Student • Developer • Tech Enthusiast
+### Information Science & Engineering Student • Developer • Tech Enthusiast
 
 I'm Raksha Kulal, an Information Science and Engineering student interested in
 software development, cybersecurity, cloud technologies, and AI.
 I enjoy learning by building projects, experimenting with new technologies,
 and turning ideas into practical solutions.
 
-About Me
+---
 
-- 🎓 Information Science and Engineering student
-- 💻 Interested in Software Development and Web Development
-- 🔐 Interested in Cybersecurity
+## About Me
+
+- 🎓 B.E. Information Science and Engineering student
+- 🏫 Mangalore Institute of Technology and Engineering (MITE)
+- 💻 Interested in Software & Web Development
+- 🔐 Exploring Cybersecurity
 - ☁️ Exploring Cloud and AI technologies
 - 🚀 Learning by building practical projects
-- 🛠️ Currently working on projects and improving my technical skills
-- 📍 Mangalore Institute of Technology and Engineering (MITE)
-
-
-
-
-## Connect With Me
 
 ---
 
@@ -42,27 +36,40 @@ About Me
 
 ---
 
----
-
 ## Technologies & Tools
 
 ### Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,javascript" />
 </p>
 
 ### Web Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Tools & Technologies
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,firebase,git,github,sklearn" />
 </p>
 
+---
+
+## Currently Learning
+
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+- 🌐 Full-Stack Web Development
+- 💻 Data Structures & Algorithms
+
+---
 
 ## Projects
+
 ### 🔐 INSIGHT — Insider Behavior Intelligence Dashboard
 
 A cybersecurity dashboard designed to detect significant changes in user behavior and identify potentially risky account activity.
@@ -76,6 +83,7 @@ A cybersecurity dashboard designed to detect significant changes in user behavio
 
 **Technologies:** React • Python • FastAPI • Firebase • Scikit-learn
 
+---
 
 ### 🧾 Smart Warranty System
 
@@ -96,15 +104,6 @@ Currently pursuing my undergraduate degree in Information Science & Engineering.
 
 ---
 
-## Currently Learning
-
-- ☁️ Cloud Computing
-- 🔐 Cybersecurity
-- 🤖 Artificial Intelligence
-- 🌐 Full-Stack Web Development
-- 💻 Data Structures & Algorithms
-
-
 ## Developer Quote
 
 > "Learn by building, improve by experimenting, and grow with every project."
@@ -112,4 +111,3 @@ Currently pursuing my undergraduate degree in Information Science & Engineering.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kulalraksha48-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
