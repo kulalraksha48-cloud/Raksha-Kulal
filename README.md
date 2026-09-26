@@ -24,15 +24,17 @@ About Me
 
 ## Connect With Me
 
-<p align="left">
+---
+
+## Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/raksha-kulal-4011a7434/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://github.com/kulalraksha48-cloud">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="mailto:kulalraksha48@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -66,11 +68,6 @@ A digital warranty and purchase-record system designed to help shops and custome
 
 
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kulalraksha48-cloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
 
 
 ## Developer Quote
