@@ -42,6 +42,8 @@ About Me
 
 ---
 
+---
+
 ## Technologies & Tools
 
 ### Languages
@@ -56,8 +58,9 @@ About Me
 
 ### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,firebase,git,github,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=fastapi,firebase,git,github,sklearn" />
 </p>
+
 
 ## Projects
 
