@@ -9,11 +9,11 @@
 
 ### Information Science & Engineering Student • Developer • Tech Enthusiast
 
-I'm Raksha Kulal, an Information Science and Engineering student interested in
-software development, cybersecurity, cloud technologies, and AI.
-I enjoy learning by building projects, experimenting with new technologies,
-and turning ideas into practical solutions.
+I'm Raksha Kulal, an Information Science & Engineering student passionate about
+software development, cybersecurity, cloud technologies, and artificial intelligence.
 
+I enjoy building practical projects, exploring new technologies, and continuously
+improving my problem-solving and development skills.
 ---
 
 ## About Me
