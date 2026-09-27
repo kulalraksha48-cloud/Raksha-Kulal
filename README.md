@@ -105,7 +105,7 @@ Currently pursuing my undergraduate degree in Information Science & Engineering.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kulalraksha48-cloud&label=PROFILE+VISITS&color=6C63FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=kulalraksha48-cloud&label=Visitors&color=blueviolet&style=flat-square" />
 </p>
 
 <p align="center">
