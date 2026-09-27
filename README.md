@@ -18,12 +18,12 @@ improving my problem-solving and development skills.
 
 ## About Me
 
-- 🎓 B.E. Information Science and Engineering student
-- 🏫 Mangalore Institute of Technology and Engineering (MITE)
-- 💻 Interested in Software & Web Development
-- 🔐 Exploring Cybersecurity
-- ☁️ Exploring Cloud and AI technologies
-- 🚀 Learning by building practical projects
+- 🎓 B.E. Information Science & Engineering student at MITE
+- 💻 Building projects to strengthen my software development skills
+- 🔐 Exploring cybersecurity and secure application development
+- ☁️ Learning cloud technologies and modern development tools
+- 🤖 Exploring artificial intelligence and practical AI applications
+- 🚀 Focused on continuous learning through hands-on projects
 
 ---
 
