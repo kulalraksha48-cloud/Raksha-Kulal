@@ -55,13 +55,25 @@ improving my problem-solving and development skills.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
+## Technologies & Tools
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,javascript" />
+</p>
+
+### Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
 ### Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,firebase,git,github,sklearn" />
+  <img src="https://skillicons.dev/icons?i=git,github,fastapi,firebase,sklearn" />
 </p>
-
 ---
 
 ## Currently Learning
