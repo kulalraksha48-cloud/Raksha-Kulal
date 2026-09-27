@@ -98,10 +98,19 @@ organize digital purchase and warranty information.
 Currently pursuing my undergraduate degree in Information Science & Engineering.
 
 ---
-
 ## Developer Quote
 
 > "Learn by building, improve by experimenting, and grow with every project."
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 🚀
+</p>
+
+<p align="center">
+  <i>Always learning. Always building. Always growing.</i>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kulalraksha48-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
