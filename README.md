@@ -21,7 +21,7 @@ improving my problem-solving and development skills.
 - 🎓 B.E. Information Science & Engineering student at MITE
 - 💻 Building projects to strengthen my software development skills
 - 🔐 Exploring cybersecurity and secure application development
-- ☁️ Learning cloud technologies and modern development tools
+#- ☁️ Learning cloud technologies and modern development tools
 - 🤖 Exploring artificial intelligence and practical AI applications
 - 🚀 Focused on continuous learning through hands-on projects
 
@@ -31,16 +31,15 @@ improving my problem-solving and development skills.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raksha-kulal-4011a7434/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/kulalraksha48-cloud">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:kulalraksha48@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## Technologies & Tools
