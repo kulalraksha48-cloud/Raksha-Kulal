@@ -1,9 +1,6 @@
-
 <p align="center">
   <img src="./profile-banner.png" alt="Raksha Kulal Profile Banner" width="100%">
 </p>
-
-
 
 # Raksha Kulal 👋
 
@@ -14,6 +11,7 @@ software development, cybersecurity, cloud technologies, and artificial intellig
 
 I enjoy building practical projects, exploring new technologies, and continuously
 improving my problem-solving and development skills.
+
 ---
 
 ## About Me
@@ -21,7 +19,7 @@ improving my problem-solving and development skills.
 - 🎓 B.E. Information Science & Engineering student at MITE
 - 💻 Building projects to strengthen my software development skills
 - 🔐 Exploring cybersecurity and secure application development
-#- ☁️ Learning cloud technologies and modern development tools
+- ☁️ Learning cloud technologies and modern development tools
 - 🤖 Exploring artificial intelligence and practical AI applications
 - 🚀 Focused on continuous learning through hands-on projects
 
@@ -40,14 +38,16 @@ improving my problem-solving and development skills.
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ---
+
 ## Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,react,fastapi,firebase,git,github,sklearn" />
 </p>
 
-
+---
 
 ## Currently Learning
 
@@ -63,9 +63,11 @@ improving my problem-solving and development skills.
 
 ### 🔐 INSIGHT — Insider Behavior Intelligence Dashboard
 
-A cybersecurity dashboard designed to detect significant changes in user behavior and identify potentially risky account activity.
+A cybersecurity dashboard designed to detect significant changes in user behavior
+and identify potentially risky account activity.
 
 **Key Features**
+
 - 📊 Behavior baseline and anomaly detection
 - 🔍 Multi-signal correlation
 - ⚠️ Context-aware risk analysis
@@ -78,7 +80,8 @@ A cybersecurity dashboard designed to detect significant changes in user behavio
 
 ### 🧾 Smart Warranty System
 
-A web-based warranty management project designed to provide a simple way to organize digital purchase and warranty information.
+A web-based warranty management project designed to provide a simple way to
+organize digital purchase and warranty information.
 
 **Technologies:** HTML
 
@@ -90,7 +93,8 @@ A web-based warranty management project designed to provide a simple way to orga
 
 ### 🎓 Bachelor of Engineering — Information Science & Engineering
 
-**Mangalore Institute of Technology and Engineering (MITE)**  
+**Mangalore Institute of Technology and Engineering (MITE)**
+
 Currently pursuing my undergraduate degree in Information Science & Engineering.
 
 ---
